@@ -1,7 +1,8 @@
 {
   "tokenSetOrder": [
+    "global/colors",
+    "global/dimentions",
     "global/ar-colors-dark",
-    "global/ar-colors-light",
-    "global/ar-dimentions"
+    "global/ar-colors-light"
   ]
 }
