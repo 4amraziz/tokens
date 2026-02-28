@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "global/colors-light",
-    "global/colors-dark"
+    "global/colors-dark",
+    "global/colors-light"
   ]
 }
