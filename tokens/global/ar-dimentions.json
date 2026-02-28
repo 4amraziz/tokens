@@ -1,5 +1,5 @@
 {
-  "amr-dimentions": {
+  "ar-dimentions": {
     "fixed": {
       "0": {
         "value": "0px",
@@ -187,6 +187,102 @@
       },
       "80": {
         "value": "80px",
+        "type": "dimension"
+      },
+      "82": {
+        "value": "82px",
+        "type": "dimension"
+      },
+      "84": {
+        "value": "84px",
+        "type": "dimension"
+      },
+      "86": {
+        "value": "86px",
+        "type": "dimension"
+      },
+      "88": {
+        "value": "88px",
+        "type": "dimension"
+      },
+      "90": {
+        "value": "90px",
+        "type": "dimension"
+      },
+      "92": {
+        "value": "92px",
+        "type": "dimension"
+      },
+      "94": {
+        "value": "94px",
+        "type": "dimension"
+      },
+      "96": {
+        "value": "96px",
+        "type": "dimension"
+      },
+      "98": {
+        "value": "98px",
+        "type": "dimension"
+      },
+      "100": {
+        "value": "100px",
+        "type": "dimension"
+      },
+      "102": {
+        "value": "102px",
+        "type": "dimension"
+      },
+      "104": {
+        "value": "104px",
+        "type": "dimension"
+      },
+      "106": {
+        "value": "106px",
+        "type": "dimension"
+      },
+      "108": {
+        "value": "108px",
+        "type": "dimension"
+      },
+      "110": {
+        "value": "110px",
+        "type": "dimension"
+      },
+      "112": {
+        "value": "112px",
+        "type": "dimension"
+      },
+      "114": {
+        "value": "114px",
+        "type": "dimension"
+      },
+      "116": {
+        "value": "116px",
+        "type": "dimension"
+      },
+      "118": {
+        "value": "118px",
+        "type": "dimension"
+      },
+      "120": {
+        "value": "120px",
+        "type": "dimension"
+      },
+      "122": {
+        "value": "122px",
+        "type": "dimension"
+      },
+      "124": {
+        "value": "124px",
+        "type": "dimension"
+      },
+      "126": {
+        "value": "126px",
+        "type": "dimension"
+      },
+      "128": {
+        "value": "128px",
         "type": "dimension"
       }
     }
