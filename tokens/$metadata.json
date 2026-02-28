@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
-    "global/colors-dark",
-    "global/colors-light"
+    "global/amr-colors-dark",
+    "global/amr-colors-light",
+    "global/amr-dimentions"
   ]
 }
