@@ -63,6 +63,12 @@
         "value": "{color-dark.blue.400}",
         "type": "color"
       }
+    },
+    "action": {
+      "primary": {
+        "value": "{color-dark.brand.600}",
+        "type": "color"
+      }
     }
   }
 }
