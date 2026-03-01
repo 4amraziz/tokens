@@ -1,7 +1,7 @@
 {
   "neutral": {
     "50": {
-      "value": "#FCFCFD",
+      "value": "{color-light.neutral.50}",
       "type": "color"
     },
     "100": {
