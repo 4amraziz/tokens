@@ -1,8 +1,11 @@
 {
   "tokenSetOrder": [
-    "premitives/colors",
-    "premitives/dimentions",
-    "sementic/type",
-    "sementic/colors-light"
+    "primitives/colors",
+    "primitives/dimensions",
+    "semantic/light",
+    "semantic/Dark",
+    "semantic/size",
+    "semantic/images",
+    "semantic/typography"
   ]
 }

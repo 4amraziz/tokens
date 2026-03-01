@@ -1,0 +1,100 @@
+{
+  "sem": {
+    "surface": {
+      "default": {
+        "value": "{color-dark.neutral.50}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{color-dark.neutral.50}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{color-dark.neutral.1200}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color-dark.neutral.1100}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{color-dark.neutral.900}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{color-dark.neutral.800}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color-dark.neutral.600}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{color-dark.neutral.400}",
+        "type": "color"
+      }
+    },
+    "input": {
+      "default": {
+        "value": "{color-dark.neutral.100}",
+        "type": "color"
+      },
+      "drop-down": {
+        "value": "{color-dark.neutral.200}",
+        "type": "color"
+      }
+    },
+    "tag": {
+      "info": {
+        "value": "{color-dark.neutral.400}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color-dark.brand.600}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color-dark.yellow.400}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{color-dark.red.400}",
+        "type": "color"
+      },
+      "progress": {
+        "value": "{color-dark.blue.400}",
+        "type": "color"
+      }
+    },
+    "action": {
+      "primary": {
+        "value": "{color-dark.brand.600}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color-dark.neutral.400}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color-dark.yellow.600}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{color-dark.red.600}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color-dark.brand.700}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "in-input": {
+        "value": "{color-dark.neutral.500}",
+        "type": "color"
+      }
+    }
+  }
+}
