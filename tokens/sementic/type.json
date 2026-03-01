@@ -1,6 +1,6 @@
 {
   "sem": {
-    "fontsize": {
+    "fontsize-text": {
       "md": {
         "value": "{ar-dimentions.fixed.14}",
         "type": "fontSizes"
@@ -19,6 +19,10 @@
       },
       "3xl": {
         "value": "{ar-dimentions.fixed.24}",
+        "type": "fontSizes"
+      },
+      "4xl": {
+        "value": "{ar-dimentions.fixed.32}",
         "type": "fontSizes"
       }
     }
