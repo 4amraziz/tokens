@@ -5,7 +5,7 @@
     "semantic/light",
     "semantic/Dark",
     "semantic/size",
-    "semantic/images",
-    "semantic/typography"
+    "semantic/typography",
+    "semantic/images"
   ]
 }
