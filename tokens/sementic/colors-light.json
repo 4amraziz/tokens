@@ -4,6 +4,10 @@
       "default": {
         "value": "{color-dark.neutral.50}",
         "type": "color"
+      },
+      "background": {
+        "value": "{color-dark.neutral.50}",
+        "type": "color"
       }
     },
     "text": {
@@ -83,6 +87,12 @@
       },
       "success": {
         "value": "{color-dark.brand.700}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "in-input": {
+        "value": "{color-dark.neutral.500}",
         "type": "color"
       }
     }
