@@ -2,7 +2,6 @@
   "tokenSetOrder": [
     "premitives/colors",
     "premitives/dimentions",
-    "sementic/colors-light",
-    "sementic/colors-dark"
+    "sementic/colors-light"
   ]
 }
