@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "global/colors",
-    "global/dimentions",
-    "theme/colors-light",
-    "theme/colors-dark"
+    "premitives/colors",
+    "premitives/dimentions",
+    "sementic/colors-light",
+    "sementic/colors-dark"
   ]
 }

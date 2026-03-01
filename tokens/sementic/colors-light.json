@@ -1,0 +1,34 @@
+{
+  "surface": {
+    "default": {
+      "value": "{color-dark.neutral.50}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "primary": {
+      "value": "{color-dark.neutral.1200}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{color-dark.neutral.1100}",
+      "type": "color"
+    },
+    "tertiary": {
+      "value": "{color-dark.neutral.900}",
+      "type": "color"
+    },
+    "inverse": {
+      "value": "{color-dark.neutral.800}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{color-dark.neutral.600}",
+      "type": "color"
+    },
+    "placeholder": {
+      "value": "{color-dark.neutral.400}",
+      "type": "color"
+    }
+  }
+}
