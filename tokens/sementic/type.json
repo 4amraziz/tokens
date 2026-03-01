@@ -4,6 +4,22 @@
       "md": {
         "value": "{ar-dimentions.fixed.14}",
         "type": "fontSizes"
+      },
+      "lg": {
+        "value": "{ar-dimentions.fixed.16}",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{ar-dimentions.fixed.18}",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "{ar-dimentions.fixed.20}",
+        "type": "fontSizes"
+      },
+      "3xl": {
+        "value": "{ar-dimentions.fixed.24}",
+        "type": "fontSizes"
       }
     }
   }
