@@ -1,0 +1,10 @@
+{
+  "sem": {
+    "fontsize": {
+      "md": {
+        "value": "{ar-dimentions.fixed.14}",
+        "type": "fontSizes"
+      }
+    }
+  }
+}
