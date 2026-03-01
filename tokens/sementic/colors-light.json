@@ -68,6 +68,22 @@
       "primary": {
         "value": "{color-dark.brand.600}",
         "type": "color"
+      },
+      "secondary": {
+        "value": "{color-dark.neutral.400}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color-dark.yellow.600}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{color-dark.red.600}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color-dark.brand.700}",
+        "type": "color"
       }
     }
   }
