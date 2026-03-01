@@ -30,5 +30,15 @@
       "value": "{color-dark.neutral.400}",
       "type": "color"
     }
+  },
+  "input": {
+    "default": {
+      "value": "{color-dark.neutral.100}",
+      "type": "color"
+    },
+    "drop-down": {
+      "value": "{color-dark.neutral.200}",
+      "type": "color"
+    }
   }
 }
