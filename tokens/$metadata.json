@@ -5,7 +5,6 @@
     "Global/Typography",
     "Semantic/light",
     "Semantic/Dark",
-    "Semantic/Typography",
-    "Components/buttons"
+    "Semantic/Typography"
   ]
 }

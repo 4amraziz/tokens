@@ -1,6 +1,6 @@
 {
-  "sem": {
-    "color": {
+  "semantic": {
+    "colors": {
       "surface": {
         "default": {
           "value": "{global.color.dark.neutral.50}",
