@@ -144,6 +144,42 @@
               "lineHeight": "{sem.line-height.22}"
             },
             "type": "typography"
+          },
+          "xl": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.xl}",
+              "lineHeight": "{sem.line-height.24}"
+            },
+            "type": "typography"
+          },
+          "2x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.2x}",
+              "lineHeight": "{sem.line-height.28}"
+            },
+            "type": "typography"
+          },
+          "3x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.3x}",
+              "lineHeight": "{sem.line-height.32}"
+            },
+            "type": "typography"
+          },
+          "4x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.4x}",
+              "lineHeight": "{sem.line-height.44}"
+            },
+            "type": "typography"
           }
         }
       }
