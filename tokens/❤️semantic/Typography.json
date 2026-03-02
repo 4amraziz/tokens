@@ -111,73 +111,73 @@
         "regular": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.12}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.12}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.16}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.16}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.24}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.24}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.44}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.44}"
             },
             "type": "typography"
           }
@@ -185,73 +185,73 @@
         "medium": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.12}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.12}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.16}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.16}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.24}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.24}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.44}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.44}"
             },
             "type": "typography"
           }
@@ -259,73 +259,73 @@
         "bold": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.12}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.12}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.16}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.16}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.24}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.24}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.44}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.44}"
             },
             "type": "typography"
           }
@@ -335,73 +335,73 @@
         "regular": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.26}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.26}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.36}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.36}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.42}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.42}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.regular}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.54}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.regular}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.54}"
             },
             "type": "typography"
           }
@@ -409,73 +409,73 @@
         "medium": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.26}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.26}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.36}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.36}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.42}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.42}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.medium}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.54}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.medium}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.54}"
             },
             "type": "typography"
           }
@@ -483,73 +483,73 @@
         "bold": {
           "xs": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.xs}",
-              "lineHeight": "{sem.line-height.18}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.10}",
+              "lineHeight": "{global.line-height.18}"
             },
             "type": "typography"
           },
           "sm": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.sm}",
-              "lineHeight": "{sem.line-height.22}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.12}",
+              "lineHeight": "{global.line-height.22}"
             },
             "type": "typography"
           },
           "md": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.md}",
-              "lineHeight": "{sem.line-height.26}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.14}",
+              "lineHeight": "{global.line-height.26}"
             },
             "type": "typography"
           },
           "lg": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.lg}",
-              "lineHeight": "{sem.line-height.28}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.16}",
+              "lineHeight": "{global.line-height.28}"
             },
             "type": "typography"
           },
           "xl": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.xl}",
-              "lineHeight": "{sem.line-height.32}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.18}",
+              "lineHeight": "{global.line-height.32}"
             },
             "type": "typography"
           },
           "2x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.2x}",
-              "lineHeight": "{sem.line-height.36}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.20}",
+              "lineHeight": "{global.line-height.36}"
             },
             "type": "typography"
           },
           "3x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.3x}",
-              "lineHeight": "{sem.line-height.42}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.24}",
+              "lineHeight": "{global.line-height.42}"
             },
             "type": "typography"
           },
           "4x": {
             "value": {
-              "fontFamily": "{sem.font-family.ar.somar-sans}",
-              "fontWeight": "{sem.fony-weight.bold}",
-              "fontSize": "{sem.fontsize-text.4x}",
-              "lineHeight": "{sem.line-height.54}"
+              "fontFamily": "{global.font-family.ar.somar-sans}",
+              "fontWeight": "{global.fony-weight.bold}",
+              "fontSize": "{global.font-size.32}",
+              "lineHeight": "{global.line-height.54}"
             },
             "type": "typography"
           }

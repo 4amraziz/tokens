@@ -1,0 +1,118 @@
+{
+  "global": {
+    "font-size": {
+      "10": {
+        "value": "{global.dimentions.10}",
+        "type": "fontSizes",
+        "description": "xs"
+      },
+      "12": {
+        "value": "{global.dimentions.12}",
+        "type": "fontSizes",
+        "description": "sm"
+      },
+      "14": {
+        "value": "{global.dimentions.14}",
+        "type": "fontSizes",
+        "description": "md"
+      },
+      "16": {
+        "value": "{global.dimentions.16}",
+        "type": "fontSizes",
+        "description": "lg"
+      },
+      "18": {
+        "value": "{global.dimentions.18}",
+        "type": "fontSizes",
+        "description": "xl"
+      },
+      "20": {
+        "value": "{global.dimentions.20}",
+        "type": "fontSizes",
+        "description": "2x"
+      },
+      "24": {
+        "value": "{global.dimentions.24}",
+        "type": "fontSizes",
+        "description": "3x"
+      },
+      "32": {
+        "value": "{global.dimentions.32}",
+        "type": "fontSizes",
+        "description": "4x"
+      }
+    },
+    "font-family": {
+      "ar": {
+        "somar-sans": {
+          "value": "Somar Sans",
+          "type": "fontFamilies"
+        }
+      }
+    },
+    "fony-weight": {
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "12": {
+        "value": "{global.dimentions.12}",
+        "type": "lineHeights"
+      },
+      "16": {
+        "value": "{global.dimentions.16}",
+        "type": "lineHeights"
+      },
+      "18": {
+        "value": "{global.dimentions.18}",
+        "type": "lineHeights"
+      },
+      "22": {
+        "value": "{global.dimentions.22}",
+        "type": "lineHeights"
+      },
+      "24": {
+        "value": "{global.dimentions.24}",
+        "type": "lineHeights"
+      },
+      "26": {
+        "value": "{global.dimentions.26}",
+        "type": "lineHeights"
+      },
+      "28": {
+        "value": "{global.dimentions.28}",
+        "type": "lineHeights"
+      },
+      "32": {
+        "value": "{global.dimentions.32}",
+        "type": "lineHeights"
+      },
+      "36": {
+        "value": "{global.dimentions.36}",
+        "type": "lineHeights"
+      },
+      "42": {
+        "value": "{global.dimentions.42}",
+        "type": "lineHeights"
+      },
+      "44": {
+        "value": "{global.dimentions.44}",
+        "type": "lineHeights"
+      },
+      "54": {
+        "value": "{global.dimentions.54}",
+        "type": "lineHeights"
+      }
+    }
+  }
+}
