@@ -7,7 +7,7 @@
       "primitives/colors": "enabled",
       "primitives/dimensions": "enabled",
       "semantic/light": "source",
-      "semantic/size": "source"
+      "semantic/Typography": "source"
     },
     "group": "Rased"
   },
@@ -19,7 +19,7 @@
       "primitives/colors": "enabled",
       "primitives/dimensions": "enabled",
       "semantic/Dark": "source",
-      "semantic/size": "source"
+      "semantic/Typography": "source"
     },
     "group": "Rased"
   }

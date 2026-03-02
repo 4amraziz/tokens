@@ -26,5 +26,15 @@
         "type": "fontSizes"
       }
     }
+  },
+  "sm": {
+    "font-family": {
+      "ar": {
+        "somar-sans": {
+          "value": "Somar Sans",
+          "type": "fontFamilies"
+        }
+      }
+    }
   }
 }
