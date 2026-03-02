@@ -1,6 +1,6 @@
 {
-  "ar-dimentions": {
-    "fixed": {
+  "global": {
+    "dimentions": {
       "0": {
         "value": "0px",
         "type": "dimension"
