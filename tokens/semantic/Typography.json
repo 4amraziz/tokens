@@ -55,6 +55,56 @@
         "value": "Bold",
         "type": "fontWeights"
       }
+    },
+    "line-height": {
+      "14": {
+        "value": "{ar-dimentions.fixed.16}",
+        "type": "lineHeights"
+      },
+      "16": {
+        "value": "{ar-dimentions.fixed.16}",
+        "type": "lineHeights"
+      },
+      "18": {
+        "value": "{ar-dimentions.fixed.18}",
+        "type": "lineHeights"
+      },
+      "22": {
+        "value": "{ar-dimentions.fixed.22}",
+        "type": "lineHeights"
+      },
+      "24": {
+        "value": "{ar-dimentions.fixed.24}",
+        "type": "lineHeights"
+      },
+      "26": {
+        "value": "{ar-dimentions.fixed.26}",
+        "type": "lineHeights"
+      },
+      "28": {
+        "value": "{ar-dimentions.fixed.28}",
+        "type": "lineHeights"
+      },
+      "32": {
+        "value": "{ar-dimentions.fixed.32}",
+        "type": "lineHeights"
+      },
+      "36": {
+        "value": "{ar-dimentions.fixed.36}",
+        "type": "lineHeights"
+      },
+      "42": {
+        "value": "{ar-dimentions.fixed.42}",
+        "type": "lineHeights"
+      },
+      "44": {
+        "value": "{ar-dimentions.fixed.44}",
+        "type": "lineHeights"
+      },
+      "54": {
+        "value": "{ar-dimentions.fixed.54}",
+        "type": "lineHeights"
+      }
     }
   }
 }
