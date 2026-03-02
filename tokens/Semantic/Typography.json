@@ -449,6 +449,16 @@
           }
         }
       }
+    },
+    "typography": {
+      "body": {
+        "test": {
+          "value": {
+            "fontFamily": "{global.font-family.ar.somar-sans}"
+          },
+          "type": "typography"
+        }
+      }
     }
   }
 }
