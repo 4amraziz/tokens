@@ -202,6 +202,60 @@
               "lineHeight": "{sem.line-height.22}"
             },
             "type": "typography"
+          },
+          "md": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.md}",
+              "lineHeight": "{sem.line-height.26}"
+            },
+            "type": "typography"
+          },
+          "lg": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.lg}",
+              "lineHeight": "{sem.line-height.28}"
+            },
+            "type": "typography"
+          },
+          "xl": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.xl}",
+              "lineHeight": "{sem.line-height.32}"
+            },
+            "type": "typography"
+          },
+          "2x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.2x}",
+              "lineHeight": "{sem.line-height.36}"
+            },
+            "type": "typography"
+          },
+          "3x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.3x}",
+              "lineHeight": "{sem.line-height.42}"
+            },
+            "type": "typography"
+          },
+          "4x": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.4x}",
+              "lineHeight": "{sem.line-height.54}"
+            },
+            "type": "typography"
           }
         }
       }
