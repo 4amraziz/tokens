@@ -182,6 +182,19 @@
             "type": "typography"
           }
         }
+      },
+      "prg": {
+        "reg": {
+          "xs": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.xs}",
+              "lineHeight": "{sem.line-height.18}"
+            },
+            "type": "typography"
+          }
+        }
       }
     }
   }
