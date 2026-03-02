@@ -413,7 +413,19 @@
       "sem.action.warning": "S:3c0fa55b9f4894f690cf6d0cda49d5d5d283bf3a,",
       "sem.action.danger": "S:9ce48d8bfc1aeb3ab7e20f417cc17bdb3ad3863b,",
       "sem.action.success": "S:bf18faece451aa0849886eb4dc7db1da81a4b1cf,",
-      "sem.icon.in-input": "S:bdcf2870431b31b6f8a8a82e37135eec8052cd83,"
+      "sem.icon.in-input": "S:bdcf2870431b31b6f8a8a82e37135eec8052cd83,",
+      "sem.font.line.reg.xl": "S:194b81bf287bfa3c988acc02c7636d9cbeb8e8c9,",
+      "sem.font.line.reg.2x": "S:010afb0a4acb680b0acb08b6651b70720df10ea8,",
+      "sem.font.line.reg.3x": "S:17e7295aff845f9d28bddfced2d911e0515b5ad9,",
+      "sem.font.line.reg.4x": "S:39c86fe8de1b83fb905ddd9432de8971e17ca2d5,",
+      "sem.font.prg.reg.xs": "S:54dc1134985b5a9a09f7f125e9a8e0dc56d0a208,",
+      "sem.font.prg.reg.sm": "S:a0e89f2cbc49b26e80ae60cccb0ea737f377a5b8,",
+      "sem.font.prg.reg.md": "S:4fbb4e962f7cd2096464c760e4afe18cd2406122,",
+      "sem.font.prg.reg.lg": "S:432b966289e44ad4fb3d652db0026637074953df,",
+      "sem.font.prg.reg.xl": "S:4f61e9d9538e92525f53293f211f5196b663bf45,",
+      "sem.font.prg.reg.2x": "S:e45f77067f647d6e55d0500a064081011e1576d4,",
+      "sem.font.prg.reg.3x": "S:ad86e8a15161089f2da07003b9275c30bdb659c6,",
+      "sem.font.prg.reg.4x": "S:434722005b02c6b34543b51c35f2b6bc10d4519b,"
     },
     "selectedTokenSets": {
       "primitives/colors": "enabled",
