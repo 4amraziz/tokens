@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "3a15f911a12a1f69c85cfbcc28accc0fc1821e83",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/colors": "enabled",
+      "primitives/dimensions": "enabled",
+      "semantic/light": "source",
+      "semantic/size": "source"
+    },
+    "group": "Rased"
+  },
+  {
+    "id": "7930cd7289ea351a0133c779a03295d8e97f9879",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/colors": "enabled",
+      "primitives/dimensions": "enabled",
+      "semantic/Dark": "source",
+      "semantic/size": "source"
+    },
+    "group": "Rased"
+  }
+]

@@ -4,8 +4,6 @@
     "primitives/dimensions",
     "semantic/light",
     "semantic/Dark",
-    "semantic/size",
-    "semantic/typography",
-    "semantic/images"
+    "semantic/size"
   ]
 }
