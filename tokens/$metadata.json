@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
-    "🧱primitives/colors",
-    "🧱primitives/dimensions",
-    "🧱primitives/Typography",
-    "❤️semantic/light",
-    "❤️semantic/Dark",
-    "❤️semantic/Typography",
-    "🎁component/buttons"
+    "Global/colors",
+    "Global/dimensions",
+    "Global/Typography",
+    "Semantic/light",
+    "Semantic/Dark",
+    "Semantic/Typography",
+    "Components/buttons"
   ]
 }
