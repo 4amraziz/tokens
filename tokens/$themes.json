@@ -26,10 +26,10 @@
       "sem.icon.in-input": "S:bdcf2870431b31b6f8a8a82e37135eec8052cd83,"
     },
     "selectedTokenSets": {
-      "primitives/colors": "enabled",
-      "primitives/dimensions": "enabled",
-      "semantic/light": "enabled",
-      "semantic/Typography": "enabled"
+      "❤️semantic/light": "enabled",
+      "❤️semantic/Typography": "enabled",
+      "🧱primitives/colors": "enabled",
+      "🧱primitives/dimensions": "enabled"
     },
     "$figmaVariableReferences": {
       "sem.surface.default": "d14a8cf11f04a9313dc7041addccfad7196a7683",
@@ -452,10 +452,10 @@
       "sem.font.line.medium.4x": "S:32edb4ba7a41cf00fb9b5a076c6abcf656641845,"
     },
     "selectedTokenSets": {
-      "primitives/colors": "enabled",
-      "primitives/dimensions": "enabled",
-      "semantic/Dark": "enabled",
-      "semantic/Typography": "enabled"
+      "❤️semantic/Dark": "enabled",
+      "❤️semantic/Typography": "enabled",
+      "🧱primitives/colors": "enabled",
+      "🧱primitives/dimensions": "enabled"
     },
     "$figmaVariableReferences": {
       "sem.surface.default": "d14a8cf11f04a9313dc7041addccfad7196a7683",
