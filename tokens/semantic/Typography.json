@@ -135,6 +135,15 @@
               "lineHeight": "{sem.line-height.18}"
             },
             "type": "typography"
+          },
+          "lg": {
+            "value": {
+              "fontFamily": "{sem.font-family.ar.somar-sans}",
+              "fontWeight": "{sem.fony-weight.regular}",
+              "fontSize": "{sem.fontsize-text.lg}",
+              "lineHeight": "{sem.line-height.22}"
+            },
+            "type": "typography"
           }
         }
       }
