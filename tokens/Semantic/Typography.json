@@ -85,227 +85,251 @@
           }
         },
         "medium": {
-          "xs": {
+          "10": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.10}",
               "lineHeight": "{global.line-height.12}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xs"
           },
-          "sm": {
+          "12": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.12}",
               "lineHeight": "{global.line-height.16}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "sm"
           },
-          "md": {
+          "14": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.14}",
               "lineHeight": "{global.line-height.18}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "md"
           },
-          "lg": {
+          "16": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.16}",
               "lineHeight": "{global.line-height.22}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "lg"
           },
-          "xl": {
+          "18": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.18}",
               "lineHeight": "{global.line-height.24}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xl"
           },
-          "2x": {
+          "20": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.20}",
               "lineHeight": "{global.line-height.28}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "2x"
           },
-          "3x": {
+          "24": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.24}",
               "lineHeight": "{global.line-height.32}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "3x"
           },
-          "4x": {
+          "32": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.medium}",
               "fontSize": "{global.font-size.32}",
               "lineHeight": "{global.line-height.44}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "4x"
           }
         },
         "bold": {
-          "xs": {
+          "10": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.10}",
               "lineHeight": "{global.line-height.12}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xs"
           },
-          "sm": {
+          "12": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.12}",
               "lineHeight": "{global.line-height.16}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "sm"
           },
-          "md": {
+          "14": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.14}",
               "lineHeight": "{global.line-height.18}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "md"
           },
-          "lg": {
+          "16": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.16}",
               "lineHeight": "{global.line-height.22}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "lg"
           },
-          "xl": {
+          "18": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.18}",
               "lineHeight": "{global.line-height.24}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xl"
           },
-          "2x": {
+          "20": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.20}",
               "lineHeight": "{global.line-height.28}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "2x"
           },
-          "3x": {
+          "24": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.24}",
               "lineHeight": "{global.line-height.32}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "3x"
           },
-          "4x": {
+          "32": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.bold}",
               "fontSize": "{global.font-size.32}",
               "lineHeight": "{global.line-height.44}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "4x"
           }
         }
       },
       "prg": {
         "regular": {
-          "xs": {
+          "10": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.10}",
               "lineHeight": "{global.line-height.18}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xs"
           },
-          "sm": {
+          "12": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.12}",
               "lineHeight": "{global.line-height.22}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "sm"
           },
-          "md": {
+          "14": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.14}",
               "lineHeight": "{global.line-height.26}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "md"
           },
-          "lg": {
+          "16": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.16}",
               "lineHeight": "{global.line-height.28}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "lg"
           },
-          "xl": {
+          "18": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.18}",
               "lineHeight": "{global.line-height.32}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "xl"
           },
-          "2x": {
+          "20": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.20}",
               "lineHeight": "{global.line-height.36}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "2x"
           },
-          "3x": {
+          "24": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.24}",
               "lineHeight": "{global.line-height.42}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "3x"
           },
-          "4x": {
+          "32": {
             "value": {
               "fontFamily": "{global.font-family.ar.somar-sans}",
               "fontWeight": "{global.fony-weight.regular}",
               "fontSize": "{global.font-size.32}",
               "lineHeight": "{global.line-height.54}"
             },
-            "type": "typography"
+            "type": "typography",
+            "description": "4x"
           }
         },
         "medium": {
